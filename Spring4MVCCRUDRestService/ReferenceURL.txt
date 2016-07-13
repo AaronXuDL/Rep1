@@ -1,0 +1,16 @@
+This sample comes from below link:
+http://websystique.com/springmvc/spring-mvc-4-restful-web-services-crud-example-resttemplate/
+
+
+---
+http://websystique.com/springmvc/spring-mvc-4-angularjs-example/
+http://websystique.com/springmvc/spring-4-mvc-angularjs-routing-example-using-ngroute/
+http://www.java2blog.com/2015/09/spring-restful-web-services-json-example.html
+http://www.mkyong.com/spring-mvc/spring-3-mvc-and-json-example/
+http://www.mkyong.com/spring-mvc/spring-3-rest-hello-world-example/
+https://ribbit.fmr.com/docs/DOC-755736?et=watches.email.document
+
+
+https://github.com/AaronXuDL/Rep1
+http://localhost:9080/SpringMVCDemo/book.do?method=add
+http://localhost:9080/Spring4MVCCRUDRestService
